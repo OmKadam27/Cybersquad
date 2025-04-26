@@ -15,5 +15,5 @@ Cybersquad is a powerful Python-based cybersecurity tool designed to perform com
 To install Cybersquad, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/cybersquad.git
+git clone https://github.com/OmKadam27/cybersquad.git
 cd cybersquad
